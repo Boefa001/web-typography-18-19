@@ -1,0 +1,11 @@
+TYPOGRAFISCH
+Ik heb ten eerste gekozen het eigen fragment te kiezen, omdat hier al vele gegevens in stonden en omdat ik (naast basiscursussen) nog niet bekend was met coderen. Ook vond ik het een uitdaging omdat ik het fragment niet ken en dus met een ‘open mind’ het project begonnen ben.
+
+Hiernaast heb ik ervoor gekozen gebruik te maken van de Brenner familie. Deze keuze heb ik vooral gebaseerd op het feit dat het font een ruime diversiteit biedt waardoor ik door middel van typografie ook gevoel over kan brengen. Zo heb ik ervoor gekozen de .voice1 (computer) het lettertype Brenner Mono te geven. Dit is een lettertype die een robotachtig uiterlijk heeft waardoor de persoon die dit ziet niet het gevoel krijgt dat dit lettertype/deze persoon menselijk is.
+
+Voor de .voice2 heb ik gekozen voor het lettertype Brenner Sans Medium. Dit omdat ik het een heel simpel, neutraal lettertype vond en de dikte vond ik het typografisch iets mannelijker maken. De tweede persoon in het fragment oogt ook simpel en neutraal. Ook heb ik ervoor gekozen een padding om deze tekst heen te maken, omdat gedurende het fragment zich ook binnen een bepaalde ruimte bevindt. Deze heb ik blauw gemaakt om duidelijk te maken dat het een mannelijke stem is.
+
+Gedurende de scene in de cel heb ik ervoor gekozen dezelfde lettertypes bij de woorden ‘Cells.’ en ‘Interlinked.’  te gebruiken. De woorden die de computer uitspreekt heb ik bovenin geplaatst, omdat deze zich ook bovenin de kamer bevindt, en de woorden die de man uitspreekt heb ik onderin geplaatst, omdat hij zich lager bevindt. Hiernaast heb ik de woorden die de computer uitspreekt allemaal in capitalen getypt en een groter gemaakt, omdat de computer de woorden met meer zekerheid uitspreekt.
+
+VORMGEVING
+Ik heb de video kleiner gemaakt, zodat ik nog meerdere elementen onder de video kan plaatsen. Bij het eerste geluid heb ik ervoor gekozen een shake toe te passen. Hiernaast heb ik bij elke piep, een geluidslijn onder de video laten lopen, om deze visueel weer te geven. Op het moment dat de derde persoon wat zegt, heb ik ervoor gekozen met opacity te spelen, zodat het woord ook echt ‘invliegt’. Bij de lange piep heb ik ervoor gekozen een blur toe te passen, om zo de spanning op te bouwen.  
